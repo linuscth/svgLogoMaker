@@ -1,6 +1,6 @@
-// Runs the application using imports from lib/
-const classQuestions = require('./lib/prompts');
+// Runs the application using imports from lib/prompts.js file
+const PROMPTS = require('./lib/prompts');
 
-const myResponse = new classQuestions;
+const Response = new PROMPTS();
 
-myResponse.askQuestions();
+Response.askQuestions();
