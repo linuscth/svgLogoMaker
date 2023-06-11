@@ -27,3 +27,13 @@ This project is an SVG image generator that allows users to create customized SV
 If you have any questions or suggestions regarding the SVG image generator, feel free to reach out to us:
 
 email: xxx.gmail.com
+
+
+
+## Github and video Url
+- GitHub url: https://github.com/linuscth/svgLogoMaker
+- video url: https://drive.google.com/file/d/1qlsi0JnArpR0M84Y-Nl_BYzmmVusSBR9/view
+
+## Screenshot
+
+![Image showing a greenyellow square with #651234 color hex code text that reads "BED".](./lib/Screen%20Shot%202023-06-11%20at%2011.28.44%20AM.png)
